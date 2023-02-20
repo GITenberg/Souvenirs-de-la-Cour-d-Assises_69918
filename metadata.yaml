@@ -1,5 +1,8 @@
 _repo: Souvenirs-de-la-Cour-d-Assises_69918
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69918-h/images/cover.jpg
 creator:
   author:
     agent_name: Gide, André
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Gide
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69918#Souvenirs-de-la-Cour-d-Assises
 gutenberg_issued: '2023-01-31'
 identifiers:
   gutenberg: '69918'
